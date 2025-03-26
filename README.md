@@ -9,8 +9,8 @@
 
 <h3 align="center">A passionate frontend developer from the Philippines</h3>
 
-- 🔭 I’m currently working on **Laundry Management System**  
-- 🌱 I’m currently learning **MERN Stack + Machine Learning (especially backend)**  
+- 🔭 I’m currently working on **Abyssal Echo**  
+- 🌱 I’m currently learning **Unity + Machine Learning (especially backend)**  
 - 🤝 I’m looking for help with **JavaScript**  
 
 ---
@@ -30,9 +30,9 @@
 ### 🛠️ Languages & Tools:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,cs,dotnet,mongodb,kotlin,python,js,html,css,express,react,nodejs,vite,mysql,vue" />
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,windows,git,github" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,windows,git,github,unity" />
 </p>
 
 ---
 
-🔥 **Fun fact:** _"If you are not obsessed with your life, change it."_
+🔥 **Fun fact:** _"Just do it."_
