@@ -7,9 +7,8 @@
   </h1>
 </p>
 
-<h3 align="center">A passionate frontend developer from the Philippines</h3>
+<h3 align="center">A passionate backend developer from the Philippines</h3>
 
-- 🔭 I’m currently working on **Abyssal Echo**  
 - 🌱 I’m currently learning **Unity + Machine Learning (especially backend)**  
 - 🤝 I’m looking for help with **JavaScript**  
 
