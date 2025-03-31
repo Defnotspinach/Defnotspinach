@@ -18,9 +18,9 @@
 - 🤝 I’m looking for help with **JavaScript**  
 
 ---
-
-<p align="center">
+<div align="center">
   ### 📫 Connect with me:
+<p align="center">
   <a href="https://www.facebook.com/share/17ZjCF6kyW/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="william pajarillo" height="30" width="40" />
   </a>
@@ -28,7 +28,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="liamz_er" height="30" width="40" />
   </a>
 </p>
-
+</div>
 ---
 
 ### 🛠️ Languages & Tools:
