@@ -1,4 +1,5 @@
-## Hi there 👋  
+ <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Defnotspinach.Defnotspinach" />
+<br/>
   <p align="center">
   <img src="https://github.com/user-attachments/assets/8423a57c-e866-4670-b8c1-534674a15fb1" />
 </p>
