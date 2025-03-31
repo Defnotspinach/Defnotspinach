@@ -12,7 +12,7 @@
   </h1>
 </p>
 
-<h3 align="center">A passionate backend developer from the Philippines</h3>
+<h3 align="center">A passionate FullStack developer from the Philippines</h3>
 
 - 🌱 I’m currently learning **Unity + Machine Learning (especially backend)**  
 - 🤝 I’m looking for help with **JavaScript**  
@@ -38,9 +38,9 @@
 </p>
 
 ---
-
-🔥 **Fun fact:** _"Just do it."_
-
+<div align="center">
+  🔥 **Fun fact:** _"Just do it."_
+</div>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
