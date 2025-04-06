@@ -1,9 +1,8 @@
- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Defnotspinach.Defnotspinach" />
-  <p align="center">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Defnotspinach.Defnotspinach" />
+
+<p align="center">
   <img src="https://github.com/user-attachments/assets/8423a57c-e866-4670-b8c1-534674a15fb1" />
 </p>
-
-
 
 <p align="center">
   <br>
@@ -18,6 +17,7 @@
 - 🤝 I’m looking for help with **JavaScript**  
 
 ---
+
 <div align="center">
  📫 Connect with me:
 <p align="center">
@@ -29,6 +29,7 @@
   </a>
 </p>
 </div>
+
 ---
 
 ### 🛠️ Languages & Tools:
@@ -38,19 +39,20 @@
 </p>
 
 ---
+
 <div align="center">
   🔥 **Fun fact:** _"Just do it."_
 </div>
 
+---
+
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🟡 Pac-Man Eating My Contributions 🟡</h2>
   <br>
-<!--   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com//selerqc/selerqc/output/github-contribution-grid-snake.svg" /> -->
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Defnotspinach/Defnotspinach/blob/output/pacman.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Defnotspinach/Defnotspinach/blob/output/pacman.svg">
-  <img alt="Pac-Man contribution graph" src="https://github.com/Defnotspinach/Defnotspinach/blob/output/pacman.svg">
-</picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Defnotspinach/Defnotspinach/blob/output/pacman.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Defnotspinach/Defnotspinach/blob/output/pacman.svg">
+    <img alt="Pac-Man contribution graph" src="https://github.com/Defnotspinach/Defnotspinach/blob/output/pacman.svg">
+  </picture>
   <br/><br/><br/>
 </div>
-
