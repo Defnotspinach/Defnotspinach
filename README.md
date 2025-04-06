@@ -50,9 +50,9 @@
   <h2>🟡 Pac-Man Eating My Contributions 🟡</h2>
   <br>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Defnotspinach/Defnotspinach/blob/output/pacman.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Defnotspinach/Defnotspinach/blob/output/pacman.svg">
-    <img alt="Pac-Man contribution graph" src="https://github.com/Defnotspinach/Defnotspinach/blob/output/pacman.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Defnotspinach/Defnotspinach/blob/output/pacman.svg?palette=github-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Defnotspinach/Defnotspinach/blob/output/pacman.svg?palette=github-dark">
+    <img alt="Pac-Man contribution graph" src="https://github.com/Defnotspinach/Defnotspinach/blob/output/pacman.svg?palette=github-dark">
   </picture>
   <br/><br/><br/>
 </div>
