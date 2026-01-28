@@ -19,15 +19,31 @@
 ---
 
 <div align="center">
- 📫 Connect with me:
-<p align="center">
-  <a href="https://www.facebook.com/share/17ZjCF6kyW/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="william pajarillo" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/aeddnt/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="liamz_er" height="30" width="40" />
-  </a>
-</p>
+  📫 Connect with me:
+  <p align="center">
+    <a href="https://www.facebook.com/share/17ZjCF6kyW/" target="_blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+    </a>
+    <a href="https://www.instagram.com/aeddnt/" target="_blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    </a>
+    <a href="mailto:marcaedrian67@gmail.com" target="_blank">
+      <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" alt="Gmail" height="30" width="40" />
+    </a>
+    <a href="https://mrcaed.netlify.app" target="_blank">
+      <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/netlify.svg" alt="Portfolio" height="30" width="40" />
+    </a>
+  </p>
+
+  <!-- Button style links -->
+  <p align="center">
+    <a href="mailto:marcaedrian67@gmail.com" target="_blank" style="text-decoration:none;">
+      <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+    <a href="https://mrcaed.netlify.app" target="_blank" style="text-decoration:none;">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
+    </a>
+  </p>
 </div>
 
 ---
@@ -43,7 +59,3 @@
 <div align="center">
   🔥 **Fun fact:** _"Just do it."_
 </div>
-
----
-
-
