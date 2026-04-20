@@ -40,7 +40,7 @@
   <a href="mailto:marcaedrian67@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://mrcaed.netlify.app" target="_blank">
+  <a href="mrcaed.is-a.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.facebook.com/share/17ZjCF6kyW/" target="_blank">
