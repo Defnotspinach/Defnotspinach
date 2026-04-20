@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/8423a57c-e866-4670-b8c1-534674a15fb1" width="200" alt="Profile Animation" />
+  <img src="https://github.com/user-attachments/assets/8423a57c-e866-4670-b8c1-534674a15fb1" alt="Profile Animation" />
   
   <h1>
     <img src="https://readme-typing-svg.herokuapp.com/?color=36BCF7&font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Marc!;" alt="Typing SVG" />
